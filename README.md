@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Venkatesh
 
-<!--
-**Venky9721/Venky9721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student  
+💻 Java Full-Stack Developer  
+📊 Strong foundation in DSA & problem-solving  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Java, Spring Boot
+- Hibernate, REST APIs
+- JDBC, MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Java & DSA practice
+- Full-stack projects
+- Backend development with Spring Boot
+
+### 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/venkatesh-gandikota-b0a9b2259
+- GitHub: you’re already here 😄
